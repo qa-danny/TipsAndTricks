@@ -9,7 +9,7 @@ Reach out if you have any questions. Good luck.
 
 ## Authors
   
-[@Danny Schaich](https://www.instagram.com/_dtacks25)
+[@Danny Schaich](https://www.instagram.com/_dstacks25)
 
 ## Acknowledgments
 
