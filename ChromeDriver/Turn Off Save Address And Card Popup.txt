@@ -1,6 +1,4 @@
-Tips and Tricks:
-
-Turn off Save Address and Save Card pop ups on Google Chrome:
+Turn off Save Address and Save Card pop ups on Google Chrome through ChromeDriver:
 
 desiredCapabilities: {
   browserName: 'chrome',
