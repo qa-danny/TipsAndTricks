@@ -1,0 +1,10 @@
+This should go in the bash_profile or ~/.zshenv
+
+# ---- Git
+
+alias 'g?'='git help'
+alias ga.='git add --all'
+alias gb='git branch' #
+alias gchk='git checkout' # add existing branch name at end of arg
+alias gchknb='git checkout -B' # add new branch name at end of arg
+alias gp='git push'
