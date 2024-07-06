@@ -1,0 +1,14 @@
+Tips and Tricks:
+
+Turn off Save Address and Save Card pop ups on Google Chrome:
+
+desiredCapabilities: {
+  browserName: 'chrome',
+  chromeOptions: {
+    prefs: {
+      'autofill.profile_enabled': false,
+      'autofill.credit_card_enabled': false
+    }
+  }
+}
+
