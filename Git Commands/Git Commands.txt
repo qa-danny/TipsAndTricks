@@ -1,0 +1,19 @@
+Rename Existing Git Remote:
+
+To find out what your remote's name is:
+
+$ git remove -v
+
+Output will be something like this:
+
+origin      https://gitAppAddress.com/repo.git (fetch)
+origin      https://gitAppAddress.com/repo.git (push)
+
+
+To change remote name:
+
+$ git remote rename origin newname
+
+Verify remote name changd with:
+
+$ git remote -v
