@@ -1,0 +1,3 @@
+Find files that do not contain a string:
+
+grep -IRiL "String to Search For" /Path/To/Folder/
